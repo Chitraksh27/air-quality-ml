@@ -30,6 +30,3 @@ dist/
 # Logs
 *.log
 
-# Project-generated model artifacts
-saved_model_artifacts/
-saved_model_artifacts.zip
